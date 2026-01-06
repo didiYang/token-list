@@ -10,7 +10,9 @@ curl -fsSL https://bun.sh/install | bash
 bun install
 ```
 
-This repo contains main PancakeSwap token list and tools to validate it.
+This repo contains main PancakeSwap token list and tools to validate it. 
+
+For more detailed contribution guidelines and BNB Chain specific information, please refer to [CONTRIBUTING_DOCS.md](./CONTRIBUTING_DOCS.md).
 
 ## How to add external lists
 
